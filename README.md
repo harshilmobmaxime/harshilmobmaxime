@@ -12,7 +12,7 @@ I'm a passionate to learn new stuff related to mobile app development. I love wo
 
 
 ## Projects
-- Coming soon
+- Coming soon...
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=harshilmobmaxime&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
