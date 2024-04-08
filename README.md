@@ -1,4 +1,4 @@
-# Hello, I'm Harshil Panchal 👋
+# Hello, I'm Harshil 👋
 
 ## About Me
 
