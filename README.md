@@ -15,6 +15,6 @@ I'm a passionate to learn new stuff related to mobile app development. I love wo
 - Coming soon...
 
 ### Stats
-![](https://github-readme-stats.vercel.app/api?username=harshilmm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshilmm&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=harshilmobmaxime&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshilmobmaxime&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmobmaxime&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
